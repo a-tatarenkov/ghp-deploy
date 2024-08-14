@@ -1,0 +1,21 @@
+.Blue {
+    background-color: #6464f3;
+    height: 400px;
+    display: flex;
+    padding: 20px;
+}
+
+.Blue nav {
+    width: 20%;
+    margin-right: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+}
+
+.Blue .container {
+    width: 75%;
+    background-color: #f5d259;
+    display: flex;
+
+}
