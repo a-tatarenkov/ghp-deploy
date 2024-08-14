@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ghp-deploy/static/css/main.4f3c3cf2.css",
+    "main.js": "/ghp-deploy/static/js/main.b71c714e.js",
+    "index.html": "/ghp-deploy/index.html",
+    "main.4f3c3cf2.css.map": "/ghp-deploy/static/css/main.4f3c3cf2.css.map",
+    "main.b71c714e.js.map": "/ghp-deploy/static/js/main.b71c714e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f3c3cf2.css",
+    "static/js/main.b71c714e.js"
+  ]
+}
